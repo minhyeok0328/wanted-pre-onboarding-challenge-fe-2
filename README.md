@@ -1,23 +1,10 @@
-# JSDoc Boilerplate
+안녕하세요! 저는 3년차 개발자 김민혁 이라고 합니다.
 
-## Usage
+회사에서는 주로 백오피스 시스템 신규 구축이나 쇼핑몰 쪽 작업을 진행했었으며,
+백오피스 시스템을 구축할 때는 Spring, Vue.js를 주로 사용했고
+쇼핑몰 작업 시에는 PHP(CodeIgniter)를 주로 사용했습니다.
 
-### Install
+SI회사에 재직하면서 항상 좋은 코드를 어떻게 작성하면 좋을까에 대해 고민이 많았습니다.
+그래서 이번 기회를 통해 제가 가지고 있던 안좋은 습관들을 없애나가는 것을 목표로 열심히 참여하겠습니다.
 
-```bash
-npm install
-or
-yarn
-```
-
-### Build
-
-```bash
-npm run docs
-or
-yarn docs
-```
-
-#### Reference
-
-- [jsdoc.app](https://jsdoc.app)
+감사합니다!
